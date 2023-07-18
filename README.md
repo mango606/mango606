@@ -11,13 +11,6 @@
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango606&theme=buefy&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mango606&langs_count=8&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
 
-##
-
-### Language
-### Library
-### Framework
-### ETC
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontAlignY=85&fontSize=10)
 
 </div>
