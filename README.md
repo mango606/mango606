@@ -2,7 +2,7 @@
 
 [![GitHub mango606](https://img.shields.io/github/followers/mango606?label=follow&style=social)](https://github.com/mango606)
 [![GitHub Stars](https://img.shields.io/github/stars/mango606?style=social)](https://github.com/mango606)
-[![Hits](https://komarev.com/ghpvc/?username=mango606&color=green&label=Hits)](https://github.com/mango606)
+[![Hits](https://komarev.com/ghpvc/?username=mango606&color=blue&label=Hits)](https://github.com/mango606)
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=mango911)](https://solved.ac/mango911)
 
 <a href="url" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
