@@ -12,6 +12,11 @@
 
 ##
 
+### Language
+### Library
+### Framework
+### ETC
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontAlignY=85&fontSize=10)
 
 </div>
