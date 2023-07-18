@@ -2,7 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=Mj%20Son&fontAlign=65&fontAlignY=32&color=gradient)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:handmj01@gmail.com)](mailto:handmj01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-DC4439?style=flat-square&logo=Gmail&logoColor=white&link=mailto:handmj01@gmail.com)](mailto:handmj01@gmail.com)
 <a href="url" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="url" target="_blank"><img src="https://img.shields.io/badge/Instagram-FE2F7D?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="url" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/></a>
