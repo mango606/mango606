@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mj%20Son&fontAlign=70&fontAlignY=35&color=gradient)
 
-![mango606's GitHub stats](https://mango606.vercel.app/api?username=mango606&theme=buefy_repo&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango606&theme=buefy&show_icons=true)
 
 [![GitHub mango606](https://img.shields.io/github/followers/mango606?label=follow&style=social)](https://github.com/mango606)
 [![GitHub Stars](https://img.shields.io/github/stars/mango606?style=social)](https://github.com/mango606)
@@ -13,10 +13,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango606&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mango606&langs_count=8&layout=compact&theme=buefy)](https://github.com/mango606/mango606.git)
 
+```
 ![buefy][buefy_repo]
 
 [buefy]: https://likelion-hack-fe.vercel.app/api?username=mango606&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
 
 [buefy_repo]: https://likelion-hack-fe.vercel.app/api/pin/?username=mango606&repo=github-readme-stats&cache_seconds=86400&theme=buefy
-
+```
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontAlignY=85&fontSize=10)
