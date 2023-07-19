@@ -2,6 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=Mj%20Son&fontAlign=65&fontAlignY=32&color=gradient)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmango606%2Fhit-counter&count_bg=%238F72DB&title_bg=%23555555&icon=github.svg&icon_color=%23E4DDF7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:handmj01@gmail.com)](mailto:handmj01@gmail.com)
 <a href="url" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/code_hand/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
