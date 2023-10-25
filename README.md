@@ -1,6 +1,6 @@
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=Mj%20Son&fontAlign=65&fontAlignY=32&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=MJ%20Son&fontAlign=65&fontAlignY=32&color=gradient)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmango606%2Fhit-counter&count_bg=%238F72DB&title_bg=%23555555&icon=github.svg&icon_color=%23E4DDF7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:handmj01@gmail.com)](mailto:handmj01@gmail.com)
