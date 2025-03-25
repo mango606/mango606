@@ -2,6 +2,10 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=MJ%20Son&fontAlign=65&fontAlignY=32&color=gradient)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/mango606?pet-id=692396582286533289" width="300" height="100"/>
+</a>
+
 [![Hits](https://komarev.com/ghpvc/?username=mango606&color=8F72DB&style=flat&label=hits)](https://github.com/mango606)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:handmj01@gmail.com)](mailto:handmj01@gmail.com)
 <a href="https://twitter.com/_mango6_" target="_blank"><img src="https://img.shields.io/badge/Twitter-222222?style=flat&logo=x&logoColor=white"/></a>
