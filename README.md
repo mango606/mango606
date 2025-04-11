@@ -6,7 +6,7 @@
   <img src="https://render.gitanimals.org/lines/mango606?pet-id=690335245390837432" width="500" height="120"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3800&pause=10000&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🔭+My+skill+is+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3000&pause=6500&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🔭+My+skill+is+...)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -19,13 +19,13 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=10000&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🌱+My+github+stats+is+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3200&pause=4500&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🌱+My+github+stats+is+...)](https://git.io/typing-svg)
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mango606&theme=buefy&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mango606&langs_count=8&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4200&pause=10000&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=👇+My+project+is+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3400&pause=2500&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=👇+My+project+is+...)](https://git.io/typing-svg)
 
 </div>
