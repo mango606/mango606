@@ -7,7 +7,7 @@
     <img src="https://render.gitanimals.org/lines/mango606?pet-id=787339028144937924" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/mango606?pet-id=692746760476621880" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/mango606?pet-id=787339331502173814" width="25%" height="100"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3000&pause=6500&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🔭+My+skill+is+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3000&pause=4000&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🔭+My+skill+is+...)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -27,6 +27,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3400&pause=2500&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=👇+My+project+is+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3400&pause=5000&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=👇+My+project+is+...)](https://git.io/typing-svg)
 
 </div>
