@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=MJ%20Son&fontAlign=65&fontAlignY=32&color=gradient)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/mango606?pet-id=690335245390837432" width="500" height="120"/>
+  <img src="https://render.gitanimals.org/lines/mango606?pet-id=692746760476621880" width="500" height="120"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3000&pause=6500&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🔭+My+skill+is+...)](https://git.io/typing-svg)
