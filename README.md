@@ -21,7 +21,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=3200&pause=4500&color=8F72DB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=60&lines=🌱+My+github+stats+is+...)](https://git.io/typing-svg)
 
-| ![Anurag's GitHub stats](https://github-readme-stats-bice-tau.vercel.app/api?username=mango606&theme=buefy&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mango606&langs_count=8&layout=compact&theme=buefy&hide_border=true)|
+| ![Anurag's GitHub stats](https://github-readme-stats-bice-tau.vercel.app/api?username=mango606&theme=buefy&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats-bice-tau.vercel.app/api/top-langs/?username=mango606&langs_count=8&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
 
 <br>
